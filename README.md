@@ -1,3 +1,3 @@
 # Introduction to Github
 
-Start learning Github.
+Start learning Github!
